@@ -1,0 +1,29 @@
+# WebMedia — llms.txt
+# Norges mest resultatdrevne digitalbyrå
+# https://webmedia.no
+
+## Om WebMedia
+WebMedia er et norsk performance marketing byrå som hjelper bedrifter å bli synlige digitalt. Vi kombinerer AI drevet effektivitet med spisskompetanse innen SEO, annonsering og webteknologi. Vi tilbyr Norges smarteste priser fordi vi jobber smartere, ikke billigere.
+
+## Tjenester
+- Søkemotoroptimalisering (SEO): Teknisk SEO, innholdsstrategi, lenkebygging, lokal SEO
+- Betalt annonsering: Google Ads, Meta Ads, TikTok Ads, programmatisk
+- Nettsider og nettbutikk: Next.js, WordPress, Shopify, skreddersydd
+- Innhold og kreativt: Video, UGC, foto, tekst, grafisk design
+- Sosiale medier: Instagram, Facebook, LinkedIn, TikTok
+- AI og teknologi: AI drevet markedsføring, automasjon, dataanalyse
+
+## Priser
+- Starter: 4 990 kr per måned (SEO grunnpakke, Google Bedriftsprofil, månedlig rapport, dedikert rådgiver)
+- Vekst: 9 990 kr per måned (Alt i Starter pluss Google Ads, Meta Ads, innholdsproduksjon, ukentlig optimalisering)
+- Enterprise: Tilpasset pris (Flerkanalstrategi, CRO, video, AI kampanjer, dedikert team)
+- Ingen bindingstid. Ingen oppstartskostnad. Annonsebudsjett kommer i tillegg.
+
+## Kontakt
+- Epost: hei@webmedia.no
+- Nettside: https://webmedia.no
+- Lokasjon: Norge
+
+## Teknisk
+- Denne nettsiden er AI optimalisert med entity-index.json, llms.txt, schema/ld+json, sitemap.xml og robots.txt
+- Vi bygger kundenes nettsider på samme måte

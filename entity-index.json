@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "WebMedia",
+  "alternateName": "WebMedia AS",
+  "url": "https://webmedia.no",
+  "description": "Norges mest resultatdrevne digitalbyrå. Vi tilbyr SEO, Google Ads, Meta Ads, nettsider, innhold og AI drevet markedsføring fra 4 990 kr per måned.",
+  "email": "hei@webmedia.no",
+  "areaServed": {
+    "@type": "Country",
+    "name": "Norway",
+    "alternateName": "Norge"
+  },
+  "knowsLanguage": ["nb", "nn", "en"],
+  "serviceType": [
+    "Søkemotoroptimalisering",
+    "SEO",
+    "Google Ads",
+    "Meta Ads",
+    "TikTok Ads",
+    "Webdesign",
+    "Nettbutikk",
+    "Innholdsproduksjon",
+    "Sosiale medier",
+    "AI markedsføring",
+    "Konverteringsoptimalisering"
+  ],
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "Starter",
+      "price": "4990",
+      "priceCurrency": "NOK",
+      "description": "SEO grunnpakke, Google Bedriftsprofil, månedlig rapport, dedikert rådgiver, én kanal"
+    },
+    {
+      "@type": "Offer",
+      "name": "Vekst",
+      "price": "9990",
+      "priceCurrency": "NOK",
+      "description": "Alt i Starter pluss Google Ads, Meta Ads, innholdsproduksjon, ukentlig optimalisering, månedlig strategimøte"
+    },
+    {
+      "@type": "Offer",
+      "name": "Enterprise",
+      "description": "Tilpasset pris. Flerkanalstrategi, CRO, A/B testing, video, UGC, AI kampanjer, prioritert support"
+    }
+  ],
+  "keywords": [
+    "digitalbyrå Norge",
+    "mediebyrå Norge",
+    "SEO byrå",
+    "Google Ads byrå",
+    "billig digitalbyrå",
+    "AI markedsføring",
+    "performance marketing",
+    "digital markedsføring Norge"
+  ],
+  "tools": [
+    "Google Search Console",
+    "Google Analytics 4",
+    "Google Ads",
+    "Google Tag Manager",
+    "Google Looker Studio",
+    "Google Business Profile",
+    "ChatGPT",
+    "Claude",
+    "Next.js",
+    "React",
+    "WordPress",
+    "Shopify",
+    "Figma"
+  ]
+}

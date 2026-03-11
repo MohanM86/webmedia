@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>WebMedia | Norges mest resultatdrevne digitalbyrå</title>
+        <link>https://webmedia.no</link>
+        <description>Nyheter og innsikt fra WebMedia. SEO, annonsering, digital strategi og AI drevet markedsføring for norske bedrifter.</description>
+        <language>nb-NO</language>
+        <lastBuildDate>Tue, 11 Mar 2026 00:00:00 +0100</lastBuildDate>
+        <atom:link href="https://webmedia.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>WebMedia lansert</title>
+            <link>https://webmedia.no/</link>
+            <description>WebMedia er nå lansert. Vi er Norges mest resultatdrevne digitalbyrå med fast månedspris fra 4 990 kr. Ingen bindingstid, ingen oppstartskostnad.</description>
+            <pubDate>Tue, 11 Mar 2026 00:00:00 +0100</pubDate>
+            <guid>https://webmedia.no/lansering</guid>
+        </item>
+    </channel>
+</rss>
